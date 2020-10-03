@@ -221,5 +221,5 @@ function runRotation(model, direction) {
 
 // use tokens for added security
 function generateToken() {
-  return '006191e7572d04c4dc69dcb08a63e8d8223IABnI7kwC/qs5nKOTpbFwqoYkvjVy+viYjGjmc8bBVooWZaj1ogAAAAAEAA8TtCoQGJ5XwEAAQA/Ynlf'; // TODO: add a token generation
+  return '006191e7572d04c4dc69dcb08a63e8d8223IADOZsvtvaDskASh4xy0xEGQzRPmiPELl0aqyenxV/cAXyWyvWcAAAAAEAA8TtCoRWV5XwEAAQBDZXlf'; // TODO: add a token generation
 }
